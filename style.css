@@ -2,12 +2,14 @@
 {
 	margin-top: 20px; 
 	margin-bottom: 20px; 
+	background-color: coral;
 }
 #sort_button
 {
 	display: none;
 	margin-top: 20px; 
 	margin-bottom: 20px; 
+	background-color: coral;
 }
 
 input
@@ -30,4 +32,15 @@ input
     background-color: lightcoral;
 	border-radius: 10px;
     width: 50%;
+}
+
+body {
+
+	background-image: url("https://www.ikea.com/images/a-farmhouse-style-living-room-with-plenty-of-rustic-artwork--5af6b93d81a21ba97e7c0cc2f43e7247.jpg?f=s");
+ background-size: cover;
+ background-position:center ;
+ font-weight:bold;
+ font-size: 25px;
+ color:white;
+
 }
